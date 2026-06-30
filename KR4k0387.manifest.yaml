@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR4k0387/v1
+canonical_location: https://kanripo.org/bkk/KR4k0387/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 喻歸西河記一卷
+  identifiers:
+    krp: KR4k0387
+  tags:
+    kr-categories: KR4k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0387.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR4k0387_001.yaml, hash: 'sha256:9aeceebf6a88729e0ca852d0cae78a189bc4521ea5281b3965399f4f878d90d7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4k0387_001.markers.yaml, hash: 'sha256:61fada3e0115daaf1be8194796c844f471a6a1cd12c4d24d95a5067c007e4036'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4k0387_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 238
+  label: 喻歸西河記
+  type: section
+  level: 1
+hash: sha256:ff85dd70c2573018a6697c53e26dbecee0d60578aa8b99c3a0b24b5d3000425c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

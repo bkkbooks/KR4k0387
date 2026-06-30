@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0387/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 喻歸西河記姑臧胸奴故蓋臧城也城不方有頭尾雨翅名蓋鳥城初學記涼州罪人於市將刑忽有一白雄雞飛於人邊請命引頸長鳴伏地向吏驅之去輒來刺史張義色其坐藝文類聚太平御覽張駿立謙光殿成後池水中有五龍晝日見移時乃滅水通變緑色駿因作鑄銅龍以厭之後卒不勝此殿太平御覽西河無蠶桑婦女著碧纈裙加細布裳著纈襦襖以外國五色錦為袴褶北堂書鈔太平御覽貸我東墻償我白梁漢書注史記索隱齊民要術趙倫妻死遺雪竹搔頭階下不數日化為楊梅𠌶朵如撒時人異之太平御覽引姑臧記錢藝士好讀離騷手不暇揭忘去肉味半月如齊太平御覽引姑臧記
+  hash: sha256:53e16aa7c427baa1aa5c0e4b591a84cad9d7360f5634bb665f54fa3c6adaf84d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0387_CHANT_001-1a.1-h}
+metadata:
+  title: 喻歸西河記一卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0387.xml
+hash: sha256:9aeceebf6a88729e0ca852d0cae78a189bc4521ea5281b3965399f4f878d90d7
