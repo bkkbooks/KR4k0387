@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0387/v1
 canonical_location: https://kanripo.org/bkk/KR4k0387/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 喻歸西河記一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0387_001.yaml, hash: 'sha256:2106a5b8a8c19c928b8bc8e2eb929a769f01c1f4238920df104d04f01bbbc1af'}
+  - {seq: 1, filename: KR4k0387_001.yaml, hash: 'sha256:43f1ace9d3b73a090a5c968f398f28137df6d7266f1d7523053c25a6ab6b78f5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0387_001.markers.yaml, hash: 'sha256:e6f87cd1041791be8ccd6e026d30c42cb7f74c1f28d9fde92429b44fed4b0850'}
+  - {seq: 1, role: markers, filename: assets/KR4k0387_001.markers.yaml, hash: 'sha256:aece4071fa18228d0e84cbe2581e2b99ca5ec0945ec637948664270c7ee2118b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 喻歸西河記
   type: section
   level: 1
-hash: sha256:860d29de4a243cc7252168eb3cca1627014ed1d0b75b98822c4e61fbc274ca85
+hash: sha256:03d961d59f982fa8a52ff55f83890a8a8db0f383138723cc5e22dc113688ad5a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
